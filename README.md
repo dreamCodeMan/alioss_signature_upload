@@ -1,0 +1,2 @@
+# alioss_signature_upload
+阿里云第三方授权直传OSS
